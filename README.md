@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there, I'm C# Fazza ++ 👋<br>
 
-🚀 About Me<br>I am a passionate developer focused on mastering core programming concepts, logic handling, and building robust applications. Currently bridging the gap between desktop logic and modern web/mobile ecosystems.
+I am a passionate developer focused on mastering core programming concepts, logic handling, and building robust applications. Currently bridging the gap between desktop logic and modern web/mobile ecosystems.
 
 🎯 Current Focus: Completing my Web & Mobile Development Diploma 🎓📱
 🛡️ Coding Standard: Bulletproof input validation and error-free code (Robust Apps).
