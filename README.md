@@ -3,7 +3,7 @@ Hi there, I'm C# Fazza ++ 👋<br>
 
 I am a passionate developer focused on mastering core programming concepts, logic handling, and building robust applications. Currently bridging the gap between desktop logic and modern web/mobile ecosystems.
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1jWXsYTijwUVsko7IiuJAoTJRcs1Z9Gb2ew&s&logoColor=white)
+![](https://d1ub0o53i85pdh.cloudfront.net/uploads/2021/07/Facebook-Linkedin-image-template-3.jpg)
 
 🎯 Current Focus: Completing my Web & Mobile Development Diploma 🎓📱
 
