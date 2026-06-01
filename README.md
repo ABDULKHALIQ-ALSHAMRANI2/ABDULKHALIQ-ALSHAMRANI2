@@ -3,11 +3,17 @@
 <h3><strong>🧑‍🎓 Who I Am:</strong></h3>
 <p>I am a passionate developer focused on mastering core programming concepts, logic handling, and building robust applications.</p>
 
+---
+
 <h3><strong>🎯 My Mission:</strong></h3>
 <p>Currently bridging the gap between desktop logic and modern web/mobile ecosystems.</p>
 <b>
 
+---
+
 ![](https://d1ub0o53i85pdh.cloudfront.net/uploads/2021/07/Facebook-Linkedin-image-template-3.jpg)
+
+---
 
 🎯 Current Focus: Completing my Web & Mobile Development Diploma 🎓📱
 
@@ -24,6 +30,12 @@
 
 ### 🧑‍🎓🔜 Future Stack (Diploma Tracks):
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+<h3><strong>📫 Connect With Me:</strong></h3>
+<a href="mailto:dev.c-fazza@gmail.com">
+  <img src="https://img.shields.io/badge/Contact%20Me-Click%20To%20Email-%23239120?style=for-the-badge&logo=gmail&logoColor=white" alt="Email C# Fazza" />
+</a>
 
 ---
 
