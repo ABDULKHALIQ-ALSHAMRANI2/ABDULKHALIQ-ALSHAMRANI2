@@ -1,4 +1,4 @@
-# 💫 About Me:
+<b># 💫 About Me:
 Hi there, I'm C# Fazza ++ 👋<br>  
 
 I am a passionate developer focused on mastering core programming concepts, logic handling, and building robust applications. Currently bridging the gap between desktop logic and modern web/mobile ecosystems.
