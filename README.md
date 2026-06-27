@@ -45,9 +45,11 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ABDULKHALIQ-ALSHAMRANI2&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 🏅 
+## 🏅 (GitHub Achievements)
 <p align="center">
-  <img src="https://github-profile-achievements-badges.vercel.app/api?username=ABDULKHALIQ-ALSHAMRANI2&theme=dracula" alt="GitHub Achievements" />
+  <img src="https://img.shields.io/badge/Pull_Shark-Achieved-purple?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/Quick_Draw-Achieved-red?style=for-the-badge&logo=github&logoColor=white" alt="Quick Draw" />
+  <img src="https://img.shields.io/badge/YOLO-Achieved-orange?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" />
 </p>
 
 ## 🏆 (Milestones & Awards)
