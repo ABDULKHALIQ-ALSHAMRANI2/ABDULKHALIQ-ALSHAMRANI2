@@ -49,6 +49,18 @@
 ## 🏆 GitHub Trophies
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=abdulkhaliq-alshmrani2&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🏅 
+<p align="center">
+  <img src="https://github-profile-achievements-badges.vercel.app/api?username=ABDULKHALIQ-ALSHAMRANI2&theme=dracula" alt="GitHub Achievements" />
+</p>
+
+## 🏆 (Milestones & Awards)
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23_Expert-Gold_Trophy-gold?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Trophy" />
+  <img src="https://img.shields.io/badge/Crypto_Trader-Silver_Award-silver?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Trader Trophy" />
+  <img src="https://img.shields.io/badge/Data_Structures-Certified-blue?style=for-the-badge&logo=git&logoColor=white" alt="Data Structures Trophy" />
+</p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
