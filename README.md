@@ -46,6 +46,8 @@
 
 ## 🏆 GitHub Trophies
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ABDULKHALIQ-ALSHAMRANI2&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 GitHub Trophies
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=abdulkhaliq-alshmrani2&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
