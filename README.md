@@ -44,10 +44,6 @@
 ![](https://streak-stats.demolab.com/?user=ABDULKHALIQ-ALSHAMRANI2&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ABDULKHALIQ-ALSHAMRANI2&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ABDULKHALIQ-ALSHAMRANI2&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
-## 🏆 GitHub Trophies
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=abdulkhaliq-alshmrani2&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🏅 
 <p align="center">
@@ -60,6 +56,8 @@
   <img src="https://img.shields.io/badge/Crypto_Trader-Silver_Award-silver?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Trader Trophy" />
   <img src="https://img.shields.io/badge/Data_Structures-Certified-blue?style=for-the-badge&logo=git&logoColor=white" alt="Data Structures Trophy" />
 </p>
+
+---
 
 
 ### ✍️ Random Dev Quote
