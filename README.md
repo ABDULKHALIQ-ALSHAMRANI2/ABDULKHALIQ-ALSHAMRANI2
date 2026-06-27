@@ -45,18 +45,11 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ABDULKHALIQ-ALSHAMRANI2&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 🏅 (GitHub Achievements)
+## 🛠️ (Technical Skills & Progress)
 <p align="center">
-  <img src="https://img.shields.io/badge/Pull_Shark-Achieved-purple?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
-  <img src="https://img.shields.io/badge/Quick_Draw-Achieved-red?style=for-the-badge&logo=github&logoColor=white" alt="Quick Draw" />
-  <img src="https://img.shields.io/badge/YOLO-Achieved-orange?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" />
-</p>
-
-## 🏆 (Milestones & Awards)
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23_Expert-Gold_Trophy-gold?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Trophy" />
-  <img src="https://img.shields.io/badge/Crypto_Trader-Silver_Award-silver?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Trader Trophy" />
-  <img src="https://img.shields.io/badge/Data_Structures-Certified-blue?style=for-the-badge&logo=git&logoColor=white" alt="Data Structures Trophy" />
+  <img src="https://img.shields.io/badge/C%2B%2B-Fundamentals-blue?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Fundamentals" />
+  <img src="https://img.shields.io/badge/C%23-Fundamentals-green?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Fundamentals" />
+  <img src="https://img.shields.io/badge/OOP_(C%23)-In_Progress-orange?style=for-the-badge&logo=c-sharp&logoColor=white" alt="OOP In Progress" />
 </p>
 
 ---
