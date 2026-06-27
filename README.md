@@ -49,6 +49,9 @@
 ## 🏆 GitHub Trophies
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=abdulkhaliq-alshmrani2&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🔥 البرمجة المستمرة (Streak Stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABDULKHALIQ-ALSHAMRANI2&theme=tokyonight)
+
 ## 🛠️ التقنيات والأدوات
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
